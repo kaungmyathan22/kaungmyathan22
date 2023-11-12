@@ -15,8 +15,8 @@
 ### DevOps
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jenkin](https://img.shields.io/badge/jenkins-%230db7ed.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ### Learning
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
+![Rust](https://img.shields.io/badge/rust-d84f04?style=for-the-badge&logo=rust&logoColor=white)
 # GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=kaungmyathan22&theme=darcula&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kaungmyathan22&theme=darcula&hide_border=true)<br/>
