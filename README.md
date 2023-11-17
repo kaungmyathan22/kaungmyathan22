@@ -1,5 +1,5 @@
 # Hi there, I'm Kaung Myat Han 👋
-I am a passionate and results-driven developer with a strong background in building innovative web and mobile applications. Over the years, I've had the opportunity to work on a diverse range of projects, gaining valuable experience and expertise in frontend and full-stack development.<br><br>
+I am a passionate and results-driven developer with a strong background in building innovative web and mobile applications. Over the years, I've had the opportunity to work on a diverse range of projects, gaining valuable experience and expertise in frontend and full-stack development.<br><be>
 
 ## Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaung-myat-han-78734017a/)
