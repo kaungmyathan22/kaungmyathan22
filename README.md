@@ -29,6 +29,7 @@ I am a passionate and results-driven developer with a strong background in build
 ![Rust](https://img.shields.io/badge/rust-d84f04?style=for-the-badge&logo=rust&logoColor=white) 
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
+![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
 
 # GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=kaungmyathan22&theme=darcula&hide_border=false&include_all_commits=false&count_private=false)<br/>
