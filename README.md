@@ -1,5 +1,5 @@
 # Hi there, I'm Kaung Myat Han 👋
-Experienced Full Stack Developer with a robust background spanning over 4 years in software development. Proficient in building scalable applications using a diverse tech stack including MERN (MongoDB, Express.js, React.js, Node.js), Next.js, and TypeScript. Demonstrated expertise in implementing authentication systems, payment integrations, and CI/CD pipelines. Skilled in backend development with Go and extensive experience in frontend technologies. Proven track record in delivering high-quality solutions and collaborating effectively in fast-paced environments.
+AWS Certified | Experienced Full Stack Developer with a robust background spanning over 4 years in software development. Proficient in building scalable applications using a diverse tech stack including MERN (MongoDB, Express.js, React.js, Node.js), Next.js, and TypeScript. Demonstrated expertise in implementing authentication systems, payment integrations, and CI/CD pipelines. Skilled in backend development with Go and extensive experience in frontend technologies. Proven track record in delivering high-quality solutions and collaborating effectively in fast-paced environments.
 
 ## Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaung-myat-han-78734017a/)
